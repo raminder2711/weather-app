@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
 5. Open your browser and navigate to http://localhost:3000 (or the URL specified in the terminal).
 
 ## Usage
-Enter the name of a city in the search bar.
-Click the search icon to retrieve the weather data.
+Enter the name of a city in the search bar./n
+Click the search icon to retrieve the weather data./n
 The current weather conditions, including temperature, humidity, and wind speed, will be displayed.
 
 ## Acknowledgments
