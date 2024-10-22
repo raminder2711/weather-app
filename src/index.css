@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Matemasie", sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  background-image: url(./assets/earth.jpg);
+  
+}
+
