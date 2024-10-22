@@ -40,13 +40,13 @@ To run this project locally, follow these steps:
 5. Open your browser and navigate to http://localhost:3000 (or the URL specified in the terminal).
 
 ## Usage
-Enter the name of a city in the search bar./n
-Click the search icon to retrieve the weather data./n
-The current weather conditions, including temperature, humidity, and wind speed, will be displayed.
+- Enter the name of a city in the search bar.<br>
+- Click the search icon to retrieve the weather data.<br>
+- The current weather conditions, including temperature, humidity, and wind speed, will be displayed.
 
 ## Acknowledgments
-OpenWeatherMap API for providing weather data.
-Flaticon for the weather icons used in the application.
-Google Fonts for the beautiful typography in the app.
-Vite for its fast development environment.
+- OpenWeatherMap API for providing weather data.<br>
+- Flaticon for the weather icons used in the application.<br>
+- Google Fonts for the beautiful typography in the app.<br>
+- Vite for its fast development environment.
 
